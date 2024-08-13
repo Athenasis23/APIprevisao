@@ -1,0 +1,110 @@
+{
+    "previsao_do_tempo": {
+      "cidades": [
+        {
+          "cidade": "São Paulo",
+          "data": "2024-08-13",
+          "previsao": {
+            "hoje": {
+              "temperatura_maxima": 25,
+              "temperatura_minima": 15,
+              "umidade": 80,
+              "condicao": "Parcialmente nublado",
+              "vento": {
+                "velocidade": 10,
+                "direcao": "Noroeste"
+              }
+            },
+            "amanha": {
+              "temperatura_maxima": 27,
+              "temperatura_minima": 17,
+              "umidade": 75,
+              "condicao": "Ensolarado",
+              "vento": {
+                "velocidade": 12,
+                "direcao": "Oeste"
+              }
+            }
+          }
+        },
+        {
+          "cidade": "Rio de Janeiro",
+          "data": "2024-08-13",
+          "previsao": {
+            "hoje": {
+              "temperatura_maxima": 30,
+              "temperatura_minima": 22,
+              "umidade": 70,
+              "condicao": "Claro",
+              "vento": {
+                "velocidade": 15,
+                "direcao": "Leste"
+              }
+            },
+            "amanha": {
+              "temperatura_maxima": 32,
+              "temperatura_minima": 23,
+              "umidade": 65,
+              "condicao": "Ensolarado",
+              "vento": {
+                "velocidade": 10,
+                "direcao": "Sudeste"
+              }
+            }
+          }
+        },
+        {
+          "cidade": "Belo Horizonte",
+          "data": "2024-08-13",
+          "previsao": {
+            "hoje": {
+              "temperatura_maxima": 22,
+              "temperatura_minima": 14,
+              "umidade": 85,
+              "condicao": "Nublado",
+              "vento": {
+                "velocidade": 8,
+                "direcao": "Sudoeste"
+              }
+            },
+            "amanha": {
+              "temperatura_maxima": 24,
+              "temperatura_minima": 15,
+              "umidade": 80,
+              "condicao": "Parcialmente nublado",
+              "vento": {
+                "velocidade": 9,
+                "direcao": "Oeste"
+              }
+            }
+          }
+        },
+        {
+          "cidade": "Salvador",
+          "data": "2024-08-13",
+          "previsao": {
+            "hoje": {
+              "temperatura_maxima": 29,
+              "temperatura_minima": 21,
+              "umidade": 80,
+              "condicao": "Chuvoso",
+              "vento": {
+                "velocidade": 12,
+                "direcao": "Nordeste"
+              }
+            },
+            "amanha": {
+              "temperatura_maxima": 30,
+              "temperatura_minima": 22,
+              "umidade": 78,
+              "condicao": "Nublado",
+              "vento": {
+                "velocidade": 11,
+                "direcao": "Nordeste"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
